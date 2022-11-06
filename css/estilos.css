@@ -1,6 +1,19 @@
 body
 {
-	color: deeppink;
+	color: darkcyan;
 	text-align: center;
-	font-family: "Arial";
+	font-family:'Times New Roman', Times, serif;
+	border: 1px black solid;
+	border-radius: 15%;
+	padding: auto;
+}
+
+nav 
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: rebeccapurple solid 6px;
+	border-radius: 15%;
+	background-color: aqua;
 }
