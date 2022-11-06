@@ -1,19 +1,10 @@
-body
+.cabezea 
 {
-	color: darkcyan;
-	text-align: center;
-	font-family:'Times New Roman', Times, serif;
-	border: 1px black solid;
-	border-radius: 15%;
-	padding: auto;
-}
-
-nav 
-{
+	border: 4px solid gray;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	border: rebeccapurple solid 6px;
-	border-radius: 15%;
-	background-color: aqua;
+	color: rgb(55, 41, 41);
+	font-size: medium;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
